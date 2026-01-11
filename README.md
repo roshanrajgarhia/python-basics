@@ -169,3 +169,14 @@ Working category: age ≥ 18 and ≤ 60
 
 ### Learning Outcome
 Learned how backend systems repeatedly validate user input and control execution flow.
+
+## Day 4 – Lists and Data Processing
+
+### Concepts Covered
+- Lists
+- Indexing
+- Looping through lists
+- Categorizing data
+
+### Learning Outcome
+Learned how backend systems process collections of data and apply logic on grouped values.
