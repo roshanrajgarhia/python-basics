@@ -156,3 +156,16 @@ This simulates a real-life decision-based program, commonly used in backend logi
 Voting eligibility: age ≥ 18
 
 Working category: age ≥ 18 and ≤ 60
+
+
+
+## Day 3 – Loops & Input Validation
+
+### Concepts Covered
+- for loop
+- while loop
+- Input validation using loops
+- Controlling program flow
+
+### Learning Outcome
+Learned how backend systems repeatedly validate user input and control execution flow.
