@@ -120,5 +120,39 @@ Working category: age ≥ 18 and ≤ 60
 
 
 
-Proper messages displayed based on conditions
+📘 Day 2: User Input & Conditional Logic (Python)
+📌 Topics Covered
 
+**On Day 2,** I practiced working with user input and decision-making logic in Python.
+
+Concepts learned and applied:
+
+input() function
+
+Type casting (int)
+
+Conditional statements (if, elif, else)
+
+Relational operators (>=, <)
+
+Logical flow for real-world problems
+
+🧠 Problem Description
+
+The program:
+
+Takes user name and age as input
+
+Checks whether the user is:
+
+Eligible to vote
+
+Falls under the working category
+
+This simulates a real-life decision-based program, commonly used in backend logic.
+
+🧪 Logic Used
+
+Voting eligibility: age ≥ 18
+
+Working category: age ≥ 18 and ≤ 60
