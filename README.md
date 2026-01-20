@@ -180,3 +180,100 @@ Learned how backend systems repeatedly validate user input and control execution
 
 ### Learning Outcome
 Learned how backend systems process collections of data and apply logic on grouped values.
+
+
+📅 Day 5 – Functions & Code Structure
+📌 Topics Covered
+
+Creating and using functions in Python
+
+Passing arguments to functions
+
+Returning values from functions
+
+Breaking a problem into smaller reusable functions
+
+Understanding function flow and execution order
+
+🧠 What I Learned
+
+Functions help avoid repetition and make code easier to read.
+
+A function should ideally do one clear task.
+
+Returning values is better than printing inside functions.
+
+Proper indentation is critical inside functions.
+
+⚠️ Challenges Faced
+
+Confusion between local and global variables
+
+Indentation errors due to incorrect spacing
+
+Accidentally using variables that were not passed as parameters
+
+✅ Outcome
+
+By the end of Day 5, I was able to:
+
+Write my own functions
+
+Call functions from other functions
+
+Structure code in a cleaner and more modular way
+
+📅 Day 6 – Debugging, Refactoring & Error Fixing
+📌 Topics Covered
+
+Debugging Python errors
+
+Fixing IndentationError and SyntaxError
+
+Refactoring code for better readability
+
+Understanding why errors occur instead of just fixing them
+
+Using meaningful variable and function names
+
+🧠 What I Learned
+
+Most errors are logical or structural, not language issues.
+
+Indentation errors usually come from inconsistent spacing.
+
+Code works better when variables are defined inside functions.
+
+Refactoring improves clarity without changing functionality.
+
+⚠️ Challenges Faced
+
+invalid syntax and invalid indent errors
+
+Misusing global variables inside functions
+
+Passing wrong variable names to functions
+
+✅ Outcome
+
+By the end of Day 6, I was able to:
+
+Debug my own code confidently
+
+Identify why an error is happening
+
+Rewrite messy code into clean, readable functions
+
+Fix issues independently without external help
+
+🚀 Progress Summary
+
+Day 5 and Day 6 helped strengthen my Python fundamentals, especially:
+
+Function design
+
+Logical thinking
+
+Debugging mindset
+
+These days built the foundation for writing reliable and maintainable code.
