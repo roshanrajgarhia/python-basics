@@ -277,3 +277,12 @@ Logical thinking
 Debugging mindset
 
 These days built the foundation for writing reliable and maintainable code.
+
+
+Day 7:
+
+- Implemented strict input validation using loops
+- Prevented program exit without valid data
+- Combined validation with statistical analysis
+- Learned where validation logic should live in a program
+
